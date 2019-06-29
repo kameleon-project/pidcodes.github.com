@@ -1,6 +1,6 @@
 ---
 layout: pid
-title: KameleonCore
+title: KameleonCore Virtual ComPort
 owner: Kameleon
 license: Apache 2.0
 site: https://kameleon.io/
